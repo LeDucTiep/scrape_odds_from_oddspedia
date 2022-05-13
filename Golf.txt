@@ -1,0 +1,1 @@
+b'{"generated_at":"2022-05-10 07:49:37","data":{"sportList":{"12":{"id":12,"name":"Golf","name_en":"Golf","slug":"golf","slug_en":"golf","sort":null}},"matchList":[],"categoryList":[],"leagueList":[],"match_count_inplay":0,"matches_count":0,"total_pages":null,"current_page":1,"prev_page":null,"next_page":null},"ch":[]}'

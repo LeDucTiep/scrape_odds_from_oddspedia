@@ -1,0 +1,1 @@
+b'{"generated_at":"2022-05-10 07:49:34","data":{"sportList":{"6":{"id":6,"name":"American Football","name_en":"American Football","slug":"american-football","slug_en":"american-football","sort":null}},"matchList":[],"categoryList":[],"leagueList":[],"match_count_inplay":0,"matches_count":0,"total_pages":null,"current_page":1,"prev_page":null,"next_page":null},"ch":[]}'

@@ -1,0 +1,46 @@
+https://oddspedia.com/api/v1/getOddsMovements?
+ot=100
+&matchId=5287099
+&inplay=0
+&wettsteuer=0
+&geoCode=CH
+&geoState=
+&offerId=162225857
+&language=en
+
+https://oddspedia.com/api/v1/getOddsMovements?ot=100&matchId=5287099&inplay=0&wettsteuer=0&geoCode=CH&geoState=&offerId=162228152&language=en
+https://oddspedia.com/api/v1/getOddsMovements?ot=100&matchId=5287099&inplay=0&wettsteuer=0&geoCode=CH&geoState=&offerId=162225971&language=en
+https://oddspedia.com/api/v1/getOddsMovements?ot=100&matchId=6337210&inplay=0&wettsteuer=0&geoCode=CH&geoState=&offerId=33181717&language=en
+
+
+https://oddspedia.com/api/v1/getOddsMovements?ot=100&matchId=5287099&inplay=1&wettsteuer=0&geoCode=CH&geoState=&offerId=103122507&language=en
+https://oddspedia.com/api/v1/getOddsMovements?ot=100&matchId=5287099&inplay=1&wettsteuer=0&geoCode=CH&geoState=&offerId=103122507&language=en
+https://oddspedia.com/api/v1/getOddsMovements?ot=100&matchId=5287099&inplay=1&wettsteuer=0&geoCode=CH&geoState=&offerId=103122507&language=en
+https://oddspedia.com/api/v1/getOddsMovements?ot=100&matchId=5287099&inplay=1&wettsteuer=0&geoCode=ES&geoState=&offerId=103122507&language=en
+https://oddspedia.com/api/v1/getOddsMovements?ot=100&matchId=5884104&inplay=1&wettsteuer=0&geoCode=ES&geoState=&offerId=103094517&language=en
+
+
+https://oddspedia.com/api/v1/getMatchList?excludeSpecialStatus=0&sortBy=default&perPageDefault=50&startDate=2022-04-25T17%3A00%3A00Z&endDate=2022-04-26T16%3A59%3A59Z&geoCode=CHE&status=all&sport=football&popularLeaguesOnly=0&page=1&perPage=50&language=en
+
+
+https://oddspedia.com/api/v1/getMatchList?excludeSpecialStatus=0&sortBy=default&perPageDefault=150&startDate=2022-04-26T00%3A00%3A00Z&endDate=2022-04-26T23%3A59%3A59Z&geoCode=VN&status=all&sport=&popularLeaguesOnly=1&page=1&perPage=150&language=en
+
+
+
+matchId
+offer_id
+matchKey   ,"uri":"\/football\/leeds-crystal-palace-51827
+
+https://oddspedia.com/api/v1/getMatchList?excludeSpecialStatus=0&sortBy=default&perPageDefault=150&startDate=2022-04-26T00%3A00%3A00Z&endDate=2022-04-26T23%3A59%3A59Z&geoCode=VN&status=all&sport=&popularLeaguesOnly=1&page=1&perPage=150&language=en
+done
+
+https://oddspedia.com/api/v1/getMatchOdds?wettsteuer=0&geoCode=CH&bookmakerGeoCode=CH&geoState=&matchKey=38&oddGroupId=1&inplay=0&language=en
+done
+
+matchId lấy trong /getMatchList
+lấy offer_id trong /getMatchOdds
+https://oddspedia.com/api/v1/getOddsMovements?ot=100&matchId=5287099&inplay=1&wettsteuer=0&geoCode=CH&geoState=&offerId="+offer_id+"&language=en
+
+
+
+

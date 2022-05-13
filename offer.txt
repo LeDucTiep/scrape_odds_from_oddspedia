@@ -1,0 +1,17 @@
+Hi We need a scraper, that frequently scrapes odds from the website www.oddspedia.com. 
+1. You go back one day (click on previous day) 
+2. All those games are finished and can be scraped. 
+3. Iterate through all games. On a game: click on "ODDS" and "Live odds". You see many bookmakers. 
+Set the country to "Switzerland" and click on "show all bookmakers" 
+4. you now see many bookmakers. click on the blue symbol, so that the timestamp/odd history plot pops up. 
+from that plot, we need ALL data. so for HOME, DRAW, AWAY we need all odds with corresponding timestamp. 
+Do this for all bookmakers (or include in the script that we can specify one). 
+5. Also, we need game information, such as team names, result, starting time. This is part 1 of the project. 
+After that, I have other milestones where we build up on the results.
+ We will scrape often and append data (check for duplicates etc.).
+ All the data should be saved as .csv Please be aware. 
+ If there is a API or similar that we can use, please do that. 
+ That's why I am looking for an expert. I think the task itself is not very difficult. 
+ We MIGHT encounter difficulties with getting banned. In that case I need someone with experience in proxies etc. 
+ I am looking forward, please show me that you exactly get what data I need with an example :) 
+ API, proxy, more milestones

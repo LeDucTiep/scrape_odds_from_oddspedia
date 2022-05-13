@@ -1,0 +1,69 @@
+1 : "Full Time Result" 
+3 : "Asian Handicap" 
+"Total Goals" 4
+"Draw No Bet" 5
+"European Handicap" 6
+"Double Chance" 7
+"Correct Score" 8
+"Half Time / Full Time" 9
+"Both Teams to Score" 11
+"Odd or Even" 10
+"First Team to Score" 12
+"Asian Handicap Corners" 13
+"Asian Handicap Cards" 16
+"Corners Odd or Even" 18
+"Total Cards Over/Under" 19
+"Clean Sheet" 21
+"To Win to Nil" 23
+"To Win From Behind" 24
+"To Win Both Halves" 25
+"To Score a Penalty" 26
+"To Score in Both Halves" 27
+"Next Goal" 30
+
+Asian Handicap -2.75/+2.75 alternative
+Asian Handicap -2.5/+2.5 alternative
+Asian Handicap -2.25/+2.25 alternative
+Asian Handicap -2/+2 alternative
+Asian Handicap -1.75/+1.75 alternative
+Asian Handicap -1.5/+1.5 alternative
+Asian Handicap -1.25/+1.25 alternative
+Asian Handicap -1/+1 alternative
+Asian Handicap -0.75/+0.75 alternative
+Asian Handicap -0.5/+0.5 alternative
+Asian Handicap -0.25/+0.25 alternative
+Asian Handicap +0.25/-0.25 alternative
+Asian Handicap +0.5/-0.5 alternative
+Asian Handicap +0.75/-0.75 alternative
+Asian Handicap +1/-1 alternative
+Asian Handicap +1.25/-1.25 alternative
+Asian Handicap +1.5/-1.5 alternative
+Asian Handicap +1.75/-1.75 alternative
+Asian Handicap +2/-2 alternative
+Asian Handicap +2.5/-2.5 alternative
+Asian Handicap +2.25/-2.25 alternative
+Asian Handicap 0 main
+Asian Handicap 
+Asian Handicap 
+Asian Handicap 
+Asian Handicap 
+Asian Handicap 
+Asian Handicap 
+Asian Handicap 
+Asian Handicap 
+Asian Handicap 
+Asian Handicap 
+Asian Handicap 
+
+
+
+C
+
+
+
+
+
+
+
+
+

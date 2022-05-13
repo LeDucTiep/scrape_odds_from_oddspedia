@@ -1,0 +1,1 @@
+https://oddspedia.com/api/v1/getMatchList?excludeSpecialStatus=0&sortBy=default&perPageDefault=150&startDate=2022-04-26T00%3A00%3A00Z&endDate=2022-04-26T23%3A59%3A59Z&geoCode=VN&status=all&sport=&popularLeaguesOnly=1&page=1&perPage=150&language=en
